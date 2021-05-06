@@ -1,0 +1,8 @@
+Cronologia de Software
+
+temp 1
+temp 2
+temp 3 -- Configuração do HTML
+temp 4 -- Criação de Icons 
+temp 5 --#05 - Inserir, Consultar, Editar, Deletar com PHP - Criando os arquivos
+temp 6 --#06 - Inserir, Consultar, Editar, Deletar com PHP - Criando o formulário de cadastro
